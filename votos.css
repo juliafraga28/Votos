@@ -1,33 +1,31 @@
-div.col h1.nome{
-	font-size: 40px;
+nav.navbar {
+	background-color:#C91111;
 }
-div.col p.porcentagem{
-	float: right;
-	font-size: 30px;
 
+.nome{
+	color:#FFFFFF;
 }
-div.col p.texto{
-	font-size: 15px;
-	padding: 20px;
 
+input.form-control {
+	width:150px;
+	height:35px;
 }
-div.col h2.text{
-	padding: 25px;
+h4.porcentagem {
+	text-align:right;
+}
 
+div.row {
+	padding:10px;
 }
-div.col img.imagem{
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  overflow: hidden;
+
+.imagem{
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+	overflow: hidden;
   position: relative;
 }
-div.col h5.porcentagem{
-	float: right;
 
-}
-div.col p.texto{
-	float: right;
-
-
+p.candidato{
+	text-align:right;
 }
