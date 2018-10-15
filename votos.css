@@ -29,3 +29,10 @@ div.row {
 p.candidato{
 	text-align:right;
 }
+p.eleito{
+	padding:5px;
+	color: #CFCFCF;
+}
+img.img{
+	padding: 5px;
+}
